@@ -2,4 +2,4 @@
 
 > Status do projeto: Em desenvolvimento
 
-<p> Os scripts desse repósitório são para colocar em pratica os conhecimentos adquiridos na plataforma Alura </p>
+<p> Os scripts desse repósitório são para colocar em prática os conhecimentos adquiridos na plataforma Alura </p>
